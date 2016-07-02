@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=calculatorpanel()
+comment1.params=component\ gridx\ gridy\ gridwidth\ gridheight\ weightx\ weighty\ fill\ anchor
+comment1.target=void\ addComponent(java.awt.Component,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ actionClear()
+numComments=3

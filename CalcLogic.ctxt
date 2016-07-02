@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CalcLogic()
+comment1.params=
+comment1.target=java.lang.String\ getTotalString()
+comment2.params=n
+comment2.target=void\ setTotal(java.lang.String)
+comment3.params=n
+comment3.target=void\ add(java.lang.String)
+comment4.params=n
+comment4.target=void\ substract(java.lang.String)
+comment5.params=n
+comment5.target=void\ multiply(java.lang.String)
+comment6.params=n
+comment6.target=void\ divide(java.lang.String)
+comment7.params=n
+comment7.target=int\ convertToNumber(java.lang.String)
+numComments=8
